@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#export CLASSPATH=.:log4j-1.2.16.jar:zookeeper.jar:hadoop-core.jar:commons-logging-api-1.0.4.jar:hbase-0.90.4-cdh3u2.jar
+
+export CLASSPATH=.:hadoop-common-0.23.0-cdh4b1.jar::hadoop-mapreduce-client-core-0.23.0-cdh4b1.jar:hbase-0.92.0-cdh4b1.jar:commons-logging-api-1.1.jar:commons-configuration-1.6.jar:guava-r09.jar:commons-lang-2.5.jar:hadoop-auth-0.23.0-cdh4b1.jar:log4j-1.2.15.jar:zookeeper-3.4.1-cdh4b1.jar:slf4j-api-1.6.1.jar:snappy-java-1.0.3.2.jar:MockBI.jar
+
